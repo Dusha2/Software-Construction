@@ -10,7 +10,7 @@
 
   ![картинка](./images/first/1/01.PNG)
 
-  #### `02 Назва гілки за замовчуванням####`
+  #### `02 Назва гілки за замовчуванням`
 
   ![картинка](./images/first/1/02.PNG)
 
@@ -488,6 +488,153 @@
 
 
 
+
+
+
+
+
+
+
+
+<details>
+  <summary><h2>Частина 2</h2></summary>
+
+  <details>
+    <summary><h3>30. Клонування репозиторіїв</h3></summary>
+
+  #### `01 Перейдіть в директорію repositories`
+
+  ![картинка](./images/second/30/01.PNG)
+
+  #### `02 Створіть клон репозиторія work`
+
+  ![картинка](./images/second/30/02.PNG)
+
+  </details>
+
+  <details>
+    <summary><h3>31. Перегляд клонованого репозиторія</h3></summary>
+
+  #### `01 Подивіться на клонований репозиторій`
+
+  ![картинка](./images/second/31/01.PNG)
+
+  #### `02 Перегляньте історію репозиторія`
+
+  ![картинка](./images/second/31/02.PNG)
+
+  </details>
+
+  <details>
+    <summary><h3>32. Що таке origin?</h3></summary>
+
+  ![картинка](./images/second/32/01.PNG)
+
+  </details>
+
+  <details>
+    <summary><h3>33. Віддалені гілки</h3></summary>
+  
+  ![картинка](./images/second/33/00.PNG)
+
+  #### `01 Список віддалених гілок`
+
+  ![картинка](./images/second/33/01.PNG)
+
+  </details>
+
+  <details>
+    <summary><h3>34. Зміна оригінального репозиторія</h3></summary>
+
+  #### `01 Внесіть зміни в оригінальний репозиторій work`
+
+  ![картинка](./images/second/34/01.PNG)
+
+  </details>
+
+  <details>
+    <summary><h3>35. Підтягування змін</h3></summary>
+
+  ![картинка](./images/second/35/00.PNG)
+
+  #### `01 Перевірте README`
+
+  ![картинка](./images/second/35/01.PNG)
+
+  </details>
+
+  <details>
+    <summary><h3>36. Злиття підтягнутих змін</h3></summary>
+
+  #### `01 Злийте підтягнуті зміни в локальну гілку main`
+
+  ![картинка](./images/second/36/01.PNG)
+
+  #### `02 Ще раз перевірте файл README`
+
+  ![картинка](./images/second/36/02.PNG)
+
+  #### `03 Команда pull (підтягнути)`
+
+  ![картинка](./images/second/36/03.PNG)
+
+  </details>
+
+  <details>
+    <summary><h3>37. Додавання гілки відстеження</h3></summary>
+
+  #### `01 Додайте локальну гілку, котра відстежує віддалену гілку`
+
+  ![картинка](./images/second/37/01.PNG)
+
+  </details>
+
+  <details>
+    <summary><h3>38. Чисті репозиторії</h3></summary>
+
+  #### `01 Створіть чистий репозиторій`
+
+  ![картинка](./images/second/38/01.PNG)
+
+  </details>
+
+  <details>
+    <summary><h3>39. Додавання віддаленого репозиторія</h3></summary>
+
+  ![картинка](./images/second/39/00.PNG)
+
+  </details>
+
+  <details>
+    <summary><h3>40. Відправка змін</h3></summary>
+
+  ![картинка](./images/second/40/00.PNG)
+  ![картинка](./images/second/40/01.PNG)
+  ![картинка](./images/second/40/02.PNG)
+
+  </details>
+
+  <details>
+    <summary><h3>41. Підтягування спільних змін</h3></summary>`
+
+  ![картинка](./images/second/41/00.PNG)
+  ![картинка](./images/second/41/01.PNG)
+
+  </details>
+
+  <details>
+    <summary><h3>42. Розміщення ваших Git репозиторіїв</h3></summary>`
+
+  #### `01 Створіть чистий репозиторій`
+
+  ![картинка](./images/second/42/01.PNG)
+
+  </details>
+
+</details>
+
+
+### Під час виконання практичної роботи проблем не виникло, оскільки раніше я вже ознайомився з Git і мав досвід його використання
 
 
 
